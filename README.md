@@ -20,6 +20,35 @@ The file structure of this Project Repsoitory is shown below:
     │───sorcerer_stone.txt
 ```
 
+## Run the Tool
+
+To use this tool do the following steps.
+
+1. Clone this respository
+
+    ```bash
+    git clone https://github.com/varunpenumudi/NLP-Document-Summarizer.git
+    ```
+
+2. cd into the repository folder
+
+    ```bash
+    cd NLP-Document-Summarizer
+    ```
+
+3. Install the Requirements
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Run `summarizer.py` file using python
+
+    ```bash
+    python summarizer.py
+    ```
+
+
 ## Summarization Technique Algorithm
 
 Here is the detailed explination of how this summarization technique:
